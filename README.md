@@ -57,3 +57,5 @@ Here are some ideas to get you started:
     <img src="https://wakatime.com/share/@9a6dbe6d-eff4-4b7b-93c1-1ea0aed026cd/a8cc342c-e0ee-45c0-8afa-cb3711bceae6.png" alt="Wakatime Stats" />
   </p>
 </details>
+
+![](https://komarev.com/ghpvc/?username=irvn0x&style=for-the-badge&color=blue)
