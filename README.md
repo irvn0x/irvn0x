@@ -3,6 +3,7 @@
 <!-- **irvn0x/irvn0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 **Web Developer & UI/UX Enthusiast**
 
+
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -20,11 +21,15 @@ Here are some ideas to get you started:
   
   <hr /> 
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=irvn0x&show_icons=true" alt="dostoevskie" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=irvn0x&theme=react&show_icons=true&hide_border=true" alt="dostoevskie" />
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvn0x&layout=compact&hide=php,scss,shell&langs_count=7" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvn0x&theme=react&show_icons=true&hide_border=true&layout=compact&hide=php,scss,shell&langs_count=7" />
+  </p>
+
+  <p align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=irvn0x&theme=react-dark&hide_border=true&radius=8&hide_title=true" align="center" />
   </p>
 </details>
 
