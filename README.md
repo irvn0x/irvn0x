@@ -7,12 +7,12 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning JavaScript & PHP
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning <b>JavaScript & PHP</b>
+- 👯 I’m looking to collaborate on <b>Open Source Project</b>
+- 😄 Pronouns: He/Him
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 <hr /> 
 
