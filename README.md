@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   <hr /> 
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=irvn0x&theme=react&show_icons=true&hide_border=true" alt="dostoevskie" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=irvn0x&theme=react&show_icons=true&hide_border=true" alt="AM" />
   </p>
 
   <p align="left">
