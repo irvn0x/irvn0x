@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   <hr />
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvn0x&" alt="dostoevskie" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvn0x&" alt="Am" />
   </p>
 </details>
 
